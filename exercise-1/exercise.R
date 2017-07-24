@@ -1,5 +1,5 @@
 # Exercise 1: ggplot2 basics
-
+# test
 # Install and load `ggplot2`
 # You will also want to load `dplyr`
 install.packages("ggplot2")
